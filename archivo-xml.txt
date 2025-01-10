@@ -1,0 +1,14 @@
+<searchRetrieveResponse xmlns:book="urlBook" xmlns:person="urlPerson" xmlns:price="urlPrice" xmlns:main="urlMain">
+<main:biblioteca>
+    <book:libro atributo1="Favorito" >
+        <book:titulo>El Quijote</book:titulo>
+        <person:autor>Miguel de Cervantes</person:autor>
+        <price:precio>12.99</price:precio>
+    </book:libro>
+    <book:libro atributo1="No me gusta">
+        <book:titulo>Cien años de soledad</book:titulo>
+        <person:autor>Gabriel García Márquez</person:autor>
+        <price:precio>18.50</price:precio>
+    </book:libro>
+</main:biblioteca> 
+</searchRetrieveResponse>
