@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/xsl" href="/webservices/catalog/xsl/searchRetrieveResponse.xsl"?>
 <searchRetrieveResponse xmlns:book="urlBook" xmlns:person="urlPerson" xmlns:price="urlPrice" xmlns:main="urlMain">
 <main:biblioteca>
     <book:libro atributo1="Favorito" >
